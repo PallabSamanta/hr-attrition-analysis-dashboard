@@ -70,29 +70,7 @@ To analyze employee attrition trends and identify factors that significantly inf
   - Decision Tree
   - Random Forest
 
----
 
-## 📎 Files Overview
-
-| File Name               | Description                                |
-|------------------------|--------------------------------------------|
-| `HR Dataset.xlsx`      | Main workbook with multiple sheets         |
-| `Raw data.csv`         | Original HR employee data                  |
-| `Hr_transformed_data.csv` | Enhanced data with satisfaction & distance labels |
-| `Analysis.csv`         | Summary of attrition stats for dashboard   |
-
----
-
-## 👨‍💼 Author
-
-**Pallab Samanta**  
-Data Analyst | Excel | SQL | Python | Power BI  
-
----
-
-## 📬 Contact
-
-If you have suggestions or want to collaborate, feel free to connect on [LinkedIn](#) or email me at [your-email@example.com].
 
 
 
